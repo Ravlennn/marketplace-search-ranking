@@ -26,4 +26,4 @@ NDCG рассчитывался по размеченным кандидатам
 
 ## Стек
 
-Python, pandas, NumPy, scikit-learn, LightGBM, Sentence Transformers, rank-bm25, Matplotlib.
+Python, pandas, NumPy, LightGBM, Sentence Transformers, rank-bm25, Matplotlib.
